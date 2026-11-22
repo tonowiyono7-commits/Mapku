@@ -1,0 +1,8 @@
+{
+  "name": "Remix GeoJoy",
+  "description": "Aplikasi Fake GPS dengan tampilan ala Google Maps dan kontrol joystick analog untuk navigasi lokasi secara real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

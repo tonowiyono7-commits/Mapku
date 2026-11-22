@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">GeoJoy</string>
+    <string name="nav_map">Peta</string>
+    <string name="nav_saved">Tersimpan</string>
+    <string name="nav_settings">Pengaturan</string>
+
+    <string name="search_hint">Telusuri lokasi atau koordinat…</string>
+    <string name="search_clear">Hapus pencarian</string>
+    <string name="search_empty">Lokasi tidak ditemukan. Coba nama kota atau format lat, lng.</string>
+    <string name="searching_places">Mencari lokasi…</string>
+
+    <string name="status_active_system">GPS Palsu Aktif</string>
+    <string name="status_active_preview">Pratinjau Peta Aktif</string>
+    <string name="status_ready">Siap Memulai</string>
+    <string name="status_dev_required">Perlu Opsi Pengembang</string>
+
+    <string name="action_start_mock">Mulai Lokasi Palsu</string>
+    <string name="action_stop_mock">Hentikan Lokasi</string>
+    <string name="action_teleport_here">Pindah ke Titik Ini</string>
+    <string name="action_open_dev_settings">Buka Opsi Pengembang</string>
+    <string name="action_copy_coords">Salin koordinat</string>
+    <string name="action_save_favorite">Simpan favorit</string>
+    <string name="action_remove_favorite">Hapus favorit</string>
+    <string name="action_recenter">Pusatkan ke pin lokasi</string>
+    <string name="action_map_layers">Jenis peta</string>
+    <string name="action_toggle_joystick">Tampilkan atau sembunyikan joystick</string>
+    <string name="action_swap_joystick">Pindahkan sisi joystick</string>
+    <string name="action_cruise_lock">Kunci arah otomatis</string>
+
+    <string name="speed_walk">Jalan</string>
+    <string name="speed_cycle">Sepeda</string>
+    <string name="speed_drive">Mobil</string>
+
+    <string name="layer_sheet_title">Jenis &amp; Detail Peta</string>
+    <string name="layer_default">Default</string>
+    <string name="layer_satellite">Satelit</string>
+    <string name="layer_terrain">Medan</string>
+    <string name="layer_dark">Malam</string>
+    <string name="detail_trail">Jejak Pergerakan</string>
+    <string name="detail_follow_pin">Kamera Ikuti Pin</string>
+
+    <string name="favorite_dialog_title">Simpan Lokasi Favorit</string>
+    <string name="favorite_rename_title">Ubah Nama Favorit</string>
+    <string name="favorite_name_hint">Nama lokasi (mis. Kantor, Rumah)</string>
+    <string name="action_save">Simpan</string>
+    <string name="action_cancel">Batal</string>
+    <string name="action_quick_history">Riwayat lokasi</string>
+    <string name="quick_history_title">Riwayat &amp; Favorit</string>
+
+    <string name="dev_banner_title">Pilih GeoJoy sebagai Aplikasi Lokasi Palsu</string>
+    <string name="dev_banner_subtitle">Ketuk untuk membuka Opsi Pengembang agar GPS palsu terbaca oleh aplikasi lain seperti Google Maps.</string>
+    <string name="dev_dialog_title">Panduan Opsi Pengembang</string>
+    <string name="dev_dialog_steps">1. Buka Pengaturan &gt; Tentang Ponsel, ketuk Nomor Bentukan 7x jika Opsi Pengembang belum aktif.\n2. Masuk ke Opsi Pengembang.\n3. Pilih menu "Pilih aplikasi lokasi palsu" (Select mock location app).\n4. Pilih GeoJoy.\n5. Kembali ke GeoJoy dan tekan Mulai Lokasi Palsu.</string>
+
+    <string name="saved_tab_favorites">Favorit</string>
+    <string name="saved_tab_history">Riwayat</string>
+    <string name="saved_empty_favorites">Belum ada lokasi favorit.\nKetuk ikon bintang pada kartu lokasi di peta untuk menyimpannya.</string>
+    <string name="saved_empty_history">Belum ada riwayat perpindahan lokasi.</string>
+    <string name="saved_clear_history">Bersihkan Riwayat</string>
+
+    <string name="settings_dev_section">Status Sistem &amp; Izin</string>
+    <string name="settings_speed_section">Kecepatan Navigasi Joystick</string>
+    <string name="settings_gps_section">Perilaku Joystick &amp; GPS</string>
+    <string name="settings_joystick_side">Letak Joystick di Sisi Kiri</string>
+    <string name="settings_gps_jitter">Fluktuasi Sinyal GPS Realistis</string>
+    <string name="settings_gps_jitter_desc">Menambahkan variasi mikro ±0,5 m agar sinyal terlihat alami.</string>
+    <string name="settings_follow_pin">Kamera Otomatis Ikuti Pin</string>
+    <string name="settings_show_trail">Tampilkan Jejak Garis Rute</string>
+    <string name="settings_update_interval">Interval Pembaruan Lokasi</string>
+
+    <string name="notif_channel_name">Layanan Lokasi Palsu</string>
+    <string name="notif_channel_desc">Menjalankan simulasi GPS palsu secara real-time di latar belakang.</string>
+    <string name="notif_stop">Hentikan</string>
+    <string name="coords_copied">Koordinat disalin ke papan klip</string>
+</resources>
